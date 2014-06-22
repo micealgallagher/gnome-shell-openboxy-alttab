@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema path="/org/gnome/shell/extensions/openboxy-alttab/" id="org.gnome.shell.extensions.openboxy-alttab">
+    <key name="enforce-primary-monitor" type="b">
+        <default>false</default>
+        <summary>Always show the switcher on the primary monitor</summary>
+        <description>Show the switcher on the primary monitor instead of detecting the active monitor.</description>
+    </key>
+    <key name="draw-borders" type="b">
+        <default>true</default>
+        <summary>Draw borders around window previews</summary>
+        <description>If enabled, draws a thick border around the window that would be activated.</description>
+    </key>
+  </schema>
+</schemalist>

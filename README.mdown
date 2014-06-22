@@ -1,0 +1,10 @@
+# Openboxy Alt-Tab
+
+An extension for gnome-shell (3.10) that provides an Alt-tab implementation
+inspired by that in Openbox.
+
+It lacks any animations and feels super snappy.
+
+This extension started off as a fork of CoverflowAltTab, but there's very little
+similarity between them now. I might not have been able to create this extension
+if not for CoverflowAltTab.

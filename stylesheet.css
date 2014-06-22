@@ -1,0 +1,33 @@
+.switcher-list-osd {
+    background: rgba(0, 0, 0, .9);
+    border: 2px solid #A5A5A5;
+    border-radius: 6px;
+    width: 600px;
+    font-size: 18px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, .6);
+}
+
+.switcher-list-item {
+    padding: 6px;
+    spacing: 6px;
+}
+
+.switcher-list-item:first-child {
+    border-radius: 4px 4px 0 0;
+}
+
+.switcher-list-item:last-child {
+    border-radius: 0 0 4px 4px;
+}
+
+.switcher-list-item:first-child:last-child {
+    border-radius: 4px;
+}
+
+.switcher-list-item:hover {
+    background: #333;
+}
+
+.switcher-list-item:focus {
+    background: #4C4C4C;
+}

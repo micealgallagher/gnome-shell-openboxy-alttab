@@ -1,0 +1,7 @@
+{
+    "name": "Openboxy Alt-Tab",
+    "description": "Replacement of Alt-Tab, behaves similar to that in Openbox.",
+    "shell-version": ["3.10"],
+    "settings-schema": "org.gnome.shell.extensions.openboxy-alttab",
+    "uuid": "openboxy-alttab@sharats.me"
+}
